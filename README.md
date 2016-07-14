@@ -3,5 +3,5 @@ A minimal project template for samples or demos related to Solace technology inc
 
 Currently there are two example tutorials:
 
-* [Tutorial-1](tutorial-1.md)
-* [Tutorial-2](tutorial-2.md)
+* [Tutorial-1](_docs/tutorial-1.md)
+* [Tutorial-2](_docs/tutorial-2.md)
