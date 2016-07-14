@@ -12,6 +12,8 @@ For some examples look at:
 
 See [Tutorial-2](tutorial-2.md) for some formatting tips.
 
+Testing commit hook
+
 ---
 
 ## Assumptions
